@@ -1,10 +1,6 @@
 /*
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
-  Cache-Control: no-cache, no-store, must-revalidate
+
 /
   Content-Type: text/html; charset=UTF-8
-  Cache-Control: no-cache, no-store, must-revalidate
-/sw.js
-  Content-Type: application/javascript; charset=UTF-8
-  Cache-Control: no-cache, no-store, must-revalidate
